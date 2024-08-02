@@ -2,7 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# If your add this complete source code in your editor so pls make sour you will make the account in the ZEGOCLOUD Application and go to the dashboard  and this application provide the whole code in the Video Straming Live  so your Application will be working properly very very Important
+# If your add this complete source code in your local editor so pls make sour you will make the account in the ZEGOCLOUD Application and go to the dashboard  and this application provide the whole code in the Video Streaming Live
+# So your Application will be working properly  this is very very Important
 
 
 ## Available Scripts
